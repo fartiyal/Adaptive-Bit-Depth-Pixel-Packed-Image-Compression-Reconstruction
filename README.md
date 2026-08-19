@@ -1,5 +1,5 @@
 # CPX — Adaptive Bit-Depth Image Codec
-Adaptive Lossless + Lossy Pixel-Packed Image Compression & Reconstruction
+#Adaptive Lossless + Lossy Pixel-Packed Image Compression & Reconstruction
 A small, self-contained implementation of the pipeline you sketched:
 
 ```
